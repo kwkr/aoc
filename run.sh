@@ -1,1 +1,1 @@
-ghc -o day1.out day1.hs && ./day1.out
+ghc -o day.out day2.hs && ./day.out
